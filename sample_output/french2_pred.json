@@ -1,0 +1,335 @@
+{
+    "title": "Le vocabulaire du fran\u00e7ais parl\u00e9 Rapport de recherche",
+    "outline": [
+        {
+            "level": "H1",
+            "text": "R\u00e9sum\u00e9",
+            "page": 3
+        },
+        {
+            "level": "H1",
+            "text": "Abstract",
+            "page": 3
+        },
+        {
+            "level": "H1",
+            "text": "Sommaire",
+            "page": 4
+        },
+        {
+            "level": "H1",
+            "text": "Partie I.",
+            "page": 9
+        },
+        {
+            "level": "H1",
+            "text": "Corpus et m\u00e9thodes",
+            "page": 9
+        },
+        {
+            "level": "H1",
+            "text": "Chapitre 1",
+            "page": 10
+        },
+        {
+            "level": "H1",
+            "text": "Corpus et normes de d\u00e9pouillement",
+            "page": 10
+        },
+        {
+            "level": "H2",
+            "text": "1.1 Deux corpus",
+            "page": 10
+        },
+        {
+            "level": "H2",
+            "text": "1.2 Normes de d\u00e9pouillement",
+            "page": 11
+        },
+        {
+            "level": "H1",
+            "text": "Chapitre 2.",
+            "page": 13
+        },
+        {
+            "level": "H1",
+            "text": "Statistiques",
+            "page": 13
+        },
+        {
+            "level": "H2",
+            "text": "2.1 Effectifs, rangs, fr\u00e9quences et vocables caract\u00e9ristiques",
+            "page": 13
+        },
+        {
+            "level": "H3",
+            "text": "Rang et fr\u00e9quence",
+            "page": 13
+        },
+        {
+            "level": "H3",
+            "text": "Vocabulaire caract\u00e9ristique",
+            "page": 14
+        },
+        {
+            "level": "H2",
+            "text": "2.2 Une collection d\u2019\u00e9v\u00e9nements rares et in\u00e9galement r\u00e9partis",
+            "page": 14
+        },
+        {
+            "level": "H1",
+            "text": "Chapitre 3",
+            "page": 18
+        },
+        {
+            "level": "H1",
+            "text": "Les parties du discours",
+            "page": 18
+        },
+        {
+            "level": "H2",
+            "text": "3.1 Poids des cat\u00e9gories grammaticales dans les deux genres",
+            "page": 18
+        },
+        {
+            "level": "H2",
+            "text": "3.2 Calcul des fr\u00e9quences par cat\u00e9gories grammaticales",
+            "page": 20
+        },
+        {
+            "level": "H2",
+            "text": "3.3 Calcul des vocables caract\u00e9ristiques",
+            "page": 21
+        },
+        {
+            "level": "H1",
+            "text": "Partie II.",
+            "page": 23
+        },
+        {
+            "level": "H1",
+            "text": "Le groupe du verbe",
+            "page": 23
+        },
+        {
+            "level": "H1",
+            "text": "Chapitre 4.",
+            "page": 24
+        },
+        {
+            "level": "H1",
+            "text": "Les verbes caract\u00e9ristiques du fran\u00e7ais parl\u00e9",
+            "page": 24
+        },
+        {
+            "level": "H2",
+            "text": "4.1 Pr\u00e9pond\u00e9rance du pr\u00e9sent",
+            "page": 24
+        },
+        {
+            "level": "H2",
+            "text": "4.2 Recensement des verbes usuels du fran\u00e7ais parl\u00e9",
+            "page": 25
+        },
+        {
+            "level": "H2",
+            "text": "4.3 Les verbes caract\u00e9ristiques de la conversation",
+            "page": 29
+        },
+        {
+            "level": "H1",
+            "text": "Chapitre 5.",
+            "page": 32
+        },
+        {
+            "level": "H1",
+            "text": "L\u2019auxiliaire",
+            "page": 32
+        },
+        {
+            "level": "H2",
+            "text": "5.1 Les deux types de combinaisons des verbes",
+            "page": 32
+        },
+        {
+            "level": "H2",
+            "text": "5.2 L\u2019auxiliaire \"avoir\"",
+            "page": 34
+        },
+        {
+            "level": "H2",
+            "text": "5.3 L\u2019auxiliaire \"\u00eatre\"",
+            "page": 37
+        },
+        {
+            "level": "H2",
+            "text": "5.4 La singularit\u00e9 de \"avoir \u00e9t\u00e9\" dans le fran\u00e7ais parl\u00e9",
+            "page": 40
+        },
+        {
+            "level": "H2",
+            "text": "5.5 Les principales combinaisons verbe + verbe infinitif",
+            "page": 41
+        },
+        {
+            "level": "H1",
+            "text": "Chapitre 6.",
+            "page": 46
+        },
+        {
+            "level": "H1",
+            "text": "Les satellites du verbe",
+            "page": 46
+        },
+        {
+            "level": "H2",
+            "text": "6.1 Les pronoms",
+            "page": 46
+        },
+        {
+            "level": "H2",
+            "text": "6.2 Les adverbes",
+            "page": 49
+        },
+        {
+            "level": "H2",
+            "text": "6.3 Les conjonctions de subordination",
+            "page": 51
+        },
+        {
+            "level": "H1",
+            "text": "Partie III.",
+            "page": 53
+        },
+        {
+            "level": "H1",
+            "text": "Le groupe du nom",
+            "page": 53
+        },
+        {
+            "level": "H1",
+            "text": "Chapitre 7.",
+            "page": 54
+        },
+        {
+            "level": "H1",
+            "text": "Les noms communs",
+            "page": 54
+        },
+        {
+            "level": "H2",
+            "text": "7.1 Les noms communs du fran\u00e7ais parl\u00e9",
+            "page": 54
+        },
+        {
+            "level": "H2",
+            "text": "7.2 Les principaux th\u00e8mes",
+            "page": 58
+        },
+        {
+            "level": "H3",
+            "text": "Puis la famille :",
+            "page": 59
+        },
+        {
+            "level": "H3",
+            "text": "L\u2019habitation, le quartier et la ville :",
+            "page": 59
+        },
+        {
+            "level": "H3",
+            "text": "Enfin, la vie professionnelle, en particulier les principaux noms de m\u00e9tiers et de professions :",
+            "page": 59
+        },
+        {
+            "level": "H2",
+            "text": "7.3 L\u2019int\u00e9gration du nom dans le syntagme verbal",
+            "page": 60
+        },
+        {
+            "level": "H1",
+            "text": "Chapitre 8",
+            "page": 65
+        },
+        {
+            "level": "H1",
+            "text": "Les adjectifs",
+            "page": 65
+        },
+        {
+            "level": "H2",
+            "text": "8.1 Les adjectifs usuels du fran\u00e7ais parl\u00e9",
+            "page": 66
+        },
+        {
+            "level": "H2",
+            "text": "8.2 Devant ou derri\u00e8re le nom ?",
+            "page": 68
+        },
+        {
+            "level": "H1",
+            "text": "Chapitre 9",
+            "page": 71
+        },
+        {
+            "level": "H1",
+            "text": "Les mots outils dans le groupe du nom",
+            "page": 71
+        },
+        {
+            "level": "H2",
+            "text": "9.1 Les d\u00e9terminants dans les fran\u00e7ais parl\u00e9 et \u00e9crit",
+            "page": 71
+        },
+        {
+            "level": "H2",
+            "text": "9.2 Les pr\u00e9positions",
+            "page": 74
+        },
+        {
+            "level": "H2",
+            "text": "9.3 Les pr\u00e9positions dans les groupes nominaux complexes",
+            "page": 75
+        },
+        {
+            "level": "H2",
+            "text": "9.4 La coordination",
+            "page": 78
+        },
+        {
+            "level": "H1",
+            "text": "Conclusions",
+            "page": 80
+        },
+        {
+            "level": "H1",
+            "text": "Remerciements.",
+            "page": 81
+        },
+        {
+            "level": "H1",
+            "text": "R\u00e9f\u00e9rences",
+            "page": 81
+        },
+        {
+            "level": "H2",
+            "text": "Annexe 1.",
+            "page": 85
+        },
+        {
+            "level": "H2",
+            "text": "Annexe 2",
+            "page": 85
+        },
+        {
+            "level": "H2",
+            "text": "Annexe 3",
+            "page": 86
+        },
+        {
+            "level": "H2",
+            "text": "Annexe 4",
+            "page": 88
+        }
+    ]
+}

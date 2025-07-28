@@ -1,0 +1,115 @@
+{
+    "title": "Dys-Net: An Ensemble Deep Learning Framework for",
+    "outline": [
+        {
+            "level": "H1",
+            "text": "Introduction",
+            "page": 2
+        },
+        {
+            "level": "H2",
+            "text": "Technical Differentiation and Advantages",
+            "page": 2
+        },
+        {
+            "level": "H3",
+            "text": "Fig. 1. Dys-Net Block Diagram",
+            "page": 3
+        },
+        {
+            "level": "H1",
+            "text": "Literature Review",
+            "page": 3
+        },
+        {
+            "level": "H1",
+            "text": "Motivation",
+            "page": 3
+        },
+        {
+            "level": "H1",
+            "text": "Proposed Dys-Net Methodology",
+            "page": 4
+        },
+        {
+            "level": "H2",
+            "text": "Overview",
+            "page": 4
+        },
+        {
+            "level": "H3",
+            "text": "Pre-processing and Feature Extraction",
+            "page": 5
+        },
+        {
+            "level": "H3",
+            "text": "Enhanced Mel Spectrogram Analysis",
+            "page": 5
+        },
+        {
+            "level": "H3",
+            "text": "Bi-directional LSTM Implementation",
+            "page": 6
+        },
+        {
+            "level": "H3",
+            "text": "Feature Hierarchy in CNN Layers",
+            "page": 7
+        },
+        {
+            "level": "H3",
+            "text": "Dys-Net Architecture",
+            "page": 7
+        },
+        {
+            "level": "H3",
+            "text": "Input Encoding:",
+            "page": 7
+        },
+        {
+            "level": "H3",
+            "text": "Hierarchical Feature Abstraction:",
+            "page": 8
+        },
+        {
+            "level": "H1",
+            "text": "Temporal Modeling:",
+            "page": 8
+        },
+        {
+            "level": "H2",
+            "text": "Classification Head:",
+            "page": 8
+        },
+        {
+            "level": "H1",
+            "text": "Datasets Used",
+            "page": 9
+        },
+        {
+            "level": "H1",
+            "text": "Analysis of Results",
+            "page": 9
+        },
+        {
+            "level": "H2",
+            "text": "Performance",
+            "page": 11
+        },
+        {
+            "level": "H3",
+            "text": "Performance",
+            "page": 13
+        },
+        {
+            "level": "H1",
+            "text": "Conclusion and Future Works",
+            "page": 14
+        },
+        {
+            "level": "H1",
+            "text": "References:",
+            "page": 15
+        }
+    ]
+}

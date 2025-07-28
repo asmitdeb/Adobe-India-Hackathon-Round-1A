@@ -1,0 +1,5 @@
+scikit-learn==1.6.1
+pandas
+numpy
+pymupdf
+xgboost-cpu

@@ -233,7 +233,7 @@ for pdf_filename in sorted(os.listdir(TEST_PDF_DIR)):
     for line_id, text, label in zip(df["line_id"], df["text"], predicted_labels):
         if label in ("H1", "H2", "H3", "H4"):
             page_num = int(line_id.split("_")[1])
-            outline.append({"level": label, "text": text, "page": page_num})
+            outline.append({"level": label, "text": text, "page": page_num-1})
 
     outline = correct_heading_hierarchy(outline)
 

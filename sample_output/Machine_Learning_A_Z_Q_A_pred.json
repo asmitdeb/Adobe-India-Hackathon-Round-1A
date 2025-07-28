@@ -138,11 +138,6 @@
         },
         {
             "level": "H2",
-            "text": "Do we really have to apply Feature Scaling on the dummy variables?",
-            "page": 6
-        },
-        {
-            "level": "H3",
             "text": "When should we use Standardization and Normalization?",
             "page": 6
         },
@@ -192,13 +187,13 @@
             "page": 9
         },
         {
-            "level": "H1",
-            "text": "Polynomial Regression",
+            "level": "H3",
+            "text": "return(summary(regressor))",
             "page": 9
         },
         {
-            "level": "H2",
-            "text": "Is Polynomial Regression a linear or non linear model?",
+            "level": "H1",
+            "text": "Polynomial Regression",
             "page": 9
         },
         {
@@ -283,11 +278,6 @@
         },
         {
             "level": "H2",
-            "text": "What is the advantage and drawback of Random Forests compared to Decision Trees? Advan-",
-            "page": 12
-        },
-        {
-            "level": "H3",
             "text": "When to use Random Forest and when to use the other models?",
             "page": 12
         },
@@ -328,7 +318,7 @@
         },
         {
             "level": "H3",
-            "text": "In Python, how to implement automated Backward Elimination with Adjusted R-Squared?",
+            "text": "for i in range(0, numVars):",
             "page": 14
         },
         {
@@ -348,11 +338,6 @@
         },
         {
             "level": "H2",
-            "text": "Can Logistic Regression be used for many independent variables as well?",
-            "page": 15
-        },
-        {
-            "level": "H3",
             "text": "Is the Confusion Matrix the optimal way to evaluate the performance of the model?",
             "page": 15
         },
@@ -374,16 +359,6 @@
         {
             "level": "H3",
             "text": "Can you explain the contourf() method in more details and some of its uses?",
-            "page": 17
-        },
-        {
-            "level": "H1",
-            "text": "Logistic Regression in R",
-            "page": 17
-        },
-        {
-            "level": "H1",
-            "text": "We predicted the outcomes of a set of observations (the test set). How do we do the same for",
             "page": 17
         },
         {
@@ -414,11 +389,6 @@
         {
             "level": "H2",
             "text": "Is K-NN a linear model?",
-            "page": 18
-        },
-        {
-            "level": "H3",
-            "text": "What if we found equal number of neighbors? For example, if we choose K=6 and if we \ufb01nd",
             "page": 18
         },
         {
@@ -548,22 +518,12 @@
         },
         {
             "level": "H3",
-            "text": "What does the \ufb01t method do here?",
-            "page": 22
-        },
-        {
-            "level": "H3",
             "text": "How to get the probabilities as output?",
             "page": 22
         },
         {
             "level": "H3",
             "text": "Why do we need to convert the dependent variable as a factor?",
-            "page": 22
-        },
-        {
-            "level": "H3",
-            "text": "specifying x and y as we did in the video?",
             "page": 22
         },
         {
@@ -597,7 +557,7 @@
             "page": 23
         },
         {
-            "level": "H2",
+            "level": "H3",
             "text": "How were the splits made in R",
             "page": 23
         },
@@ -618,17 +578,7 @@
         },
         {
             "level": "H3",
-            "text": "Random Forest Regression in Python",
-            "page": 24
-        },
-        {
-            "level": "H3",
             "text": "How do I know how many trees I should use?",
-            "page": 24
-        },
-        {
-            "level": "H3",
-            "text": "Random Forest Regression in R",
             "page": 24
         },
         {
@@ -657,11 +607,6 @@
             "page": 25
         },
         {
-            "level": "H2",
-            "text": "If you target 20000 customers and if 4000 respond, then why does this not have a multiplying",
-            "page": 25
-        },
-        {
             "level": "H3",
             "text": "a\ufb00ect? So if I target 100000 customers then I should get a response from 50000?",
             "page": 25
@@ -677,7 +622,7 @@
             "page": 25
         },
         {
-            "level": "H3",
+            "level": "H1",
             "text": "Part 4 - Clustering",
             "page": 26
         },
@@ -733,16 +678,6 @@
         },
         {
             "level": "H2",
-            "text": "Do we also need to perform feature scaling for Hierarchical Clustering?",
-            "page": 28
-        },
-        {
-            "level": "H3",
-            "text": "Hierarchical Clustering in Python",
-            "page": 29
-        },
-        {
-            "level": "H3",
             "text": "Should we use the dendrogram or the elbow method to \ufb01nd that optimal number of clusters?",
             "page": 29
         },
@@ -788,11 +723,6 @@
         },
         {
             "level": "H3",
-            "text": "Hierarchical Clustering in R",
-            "page": 29
-        },
-        {
-            "level": "H3",
             "text": "Why did we not apply feature scaling in R?",
             "page": 29
         },
@@ -827,16 +757,6 @@
             "page": 31
         },
         {
-            "level": "H3",
-            "text": "In real time scenario what is the ideal time period we should consider to make a good Market",
-            "page": 31
-        },
-        {
-            "level": "H3",
-            "text": "Basket Analysis model? And should it be done on each store separately or region wise?",
-            "page": 31
-        },
-        {
             "level": "H1",
             "text": "Eclat",
             "page": 31
@@ -863,11 +783,6 @@
         },
         {
             "level": "H2",
-            "text": "It seems that Mineral Water is skewing the results of the associations because it is the most",
-            "page": 32
-        },
-        {
-            "level": "H3",
             "text": "frequent purchase, so would it be unreasonable to simply exclude it from the data and re-build",
             "page": 32
         },
@@ -903,11 +818,6 @@
         },
         {
             "level": "H3",
-            "text": "Could you please explain in more details what we do with the rewards at lines 33 & 34?",
-            "page": 33
-        },
-        {
-            "level": "H3",
             "text": "Does the UCB strategy really come into e\ufb00ect during the \ufb01rst rounds?",
             "page": 33
         },
@@ -933,22 +843,7 @@
         },
         {
             "level": "H3",
-            "text": "instructor said there is no strategy at the beginning so the \ufb01rst round will display Ad 1, 2nd",
-            "page": 34
-        },
-        {
-            "level": "H3",
             "text": "round Ad 2, 3rd round Ad 3, and so on.. So why is there no selection by UCB?",
-            "page": 34
-        },
-        {
-            "level": "H2",
-            "text": "4 and in R it was ad no.",
-            "page": 34
-        },
-        {
-            "level": "H3",
-            "text": "Ads_CTR_Optimisation.csv \ufb01le was used. Why we are getting two di\ufb00erent results using the",
             "page": 34
         },
         {
@@ -959,6 +854,11 @@
         {
             "level": "H2",
             "text": "Could you please provide a R implementation of the UCB regret curve?",
+            "page": 34
+        },
+        {
+            "level": "H3",
+            "text": "# Implementing UCB",
             "page": 34
         },
         {
@@ -993,11 +893,6 @@
         },
         {
             "level": "H3",
-            "text": "The histogram shows 4 as the best ad to select. The highest bar is at 4 on the x axis. Why is",
-            "page": 36
-        },
-        {
-            "level": "H3",
             "text": "I am curious as to how one would apply Thompson Sampling proactively when running this",
             "page": 37
         },
@@ -1012,22 +907,22 @@
             "page": 37
         },
         {
-            "level": "H1",
+            "level": "H2",
             "text": "Thompson Sampling in R",
             "page": 37
         },
         {
-            "level": "H2",
+            "level": "H3",
             "text": "Could you please explain in your own words the di\ufb00erence between the Bernoulli and Beta",
             "page": 37
         },
         {
-            "level": "H3",
+            "level": "H1",
             "text": "distributions?",
             "page": 37
         },
         {
-            "level": "H3",
+            "level": "H2",
             "text": "Could you please provide a great source on Bayesian Inference?",
             "page": 37
         },
@@ -1083,16 +978,6 @@
         },
         {
             "level": "H3",
-            "text": "Why do we delete \u2019NOT\u2019, given that \"Crust is good\" is not the same as \"Crust is not good\"?",
-            "page": 39
-        },
-        {
-            "level": "H3",
-            "text": "After we are done with cleaning and getting our bag of words model, why are we doing",
-            "page": 39
-        },
-        {
-            "level": "H3",
             "text": "What model seems to be the best solution to the Homework Challenge?",
             "page": 39
         },
@@ -1113,17 +998,7 @@
         },
         {
             "level": "H3",
-            "text": "review is changing to positive from negative. Can you clarify how this will impact learning",
-            "page": 39
-        },
-        {
-            "level": "H3",
             "text": "Is there any way or resources through which I can take a look at the list of the non-relevant",
-            "page": 39
-        },
-        {
-            "level": "H3",
-            "text": "What would be another technique than confusion matrix and CAP curve to test the NLP",
             "page": 39
         },
         {
@@ -1138,11 +1013,6 @@
         },
         {
             "level": "H2",
-            "text": "Into what category does ANN fall? Supervised, Unsupervised, Reinforced Learning?",
-            "page": 40
-        },
-        {
-            "level": "H3",
             "text": "Why should the cost function be reduced?",
             "page": 40
         },
@@ -1150,11 +1020,6 @@
             "level": "H3",
             "text": "Could you please recap on the process of each training iteration?",
             "page": 40
-        },
-        {
-            "level": "H3",
-            "text": "Why would an ANN be a better model/solution than just using one of the di\ufb00erent models",
-            "page": 41
         },
         {
             "level": "H2",
@@ -1203,6 +1068,11 @@
         },
         {
             "level": "H3",
+            "text": "# Compiling the ANN",
+            "page": 42
+        },
+        {
+            "level": "H3",
             "text": "Where do all the hyperparameters come from? How did we choose the number of layers, the",
             "page": 42
         },
@@ -1219,21 +1089,6 @@
         {
             "level": "H3",
             "text": "Why do we use \u2019as.numeric(factor())\u2019?",
-            "page": 43
-        },
-        {
-            "level": "H3",
-            "text": "If I choose hidden = c(a1, a2, a3..an), does this mean there are n hidden layers in the model, and",
-            "page": 43
-        },
-        {
-            "level": "H3",
-            "text": "nodes in each hidden layer? How do we choose these numbers?",
-            "page": 43
-        },
-        {
-            "level": "H3",
-            "text": "In Python we applied the Recti\ufb01er Function to the Hidden Layers, but the Sigmoid Function",
             "page": 43
         },
         {
@@ -1277,21 +1132,6 @@
             "page": 44
         },
         {
-            "level": "H3",
-            "text": "After \ufb02attening, are we going to get one long vector for all pooled layers or a vector for each",
-            "page": 44
-        },
-        {
-            "level": "H1",
-            "text": "pooled layer?",
-            "page": 44
-        },
-        {
-            "level": "H2",
-            "text": "How much images are required to train a good model? Is there any rule of thumb for this",
-            "page": 44
-        },
-        {
             "level": "H1",
             "text": "decision?",
             "page": 44
@@ -1317,6 +1157,11 @@
             "page": 44
         },
         {
+            "level": "H3",
+            "text": "import numpy as np",
+            "page": 44
+        },
+        {
             "level": "H1",
             "text": "Part 9 - Dimensionality Reduction",
             "page": 45
@@ -1328,11 +1173,6 @@
         },
         {
             "level": "H2",
-            "text": "What is the di\ufb00erence between PCA and Factor Analysis?",
-            "page": 45
-        },
-        {
-            "level": "H3",
             "text": "Should I apply PCA if my dataset has categorical variables?",
             "page": 45
         },
@@ -1343,17 +1183,7 @@
         },
         {
             "level": "H3",
-            "text": "How do you \ufb01nd out which ones of the independent variables are the top 2 components?",
-            "page": 45
-        },
-        {
-            "level": "H3",
             "text": "Is it better to use Feature Extraction or Feature Selection, or both? If both, in which order?",
-            "page": 46
-        },
-        {
-            "level": "H3",
-            "text": "How much total variance ratio do we need to use?",
             "page": 46
         },
         {
@@ -1362,12 +1192,12 @@
             "page": 46
         },
         {
-            "level": "H3",
+            "level": "H1",
             "text": "variance ratio?",
             "page": 46
         },
         {
-            "level": "H3",
+            "level": "H2",
             "text": "Is it more common to use exactly 2 independent variables to build a classi\ufb01er, or do people",
             "page": 46
         },
@@ -1384,11 +1214,6 @@
         {
             "level": "H3",
             "text": "signs of the two principal components PC1 and PC2?",
-            "page": 46
-        },
-        {
-            "level": "H3",
-            "text": "PCA in R",
             "page": 46
         },
         {
@@ -1462,22 +1287,12 @@
             "page": 48
         },
         {
-            "level": "H3",
-            "text": "Why are we getting matrix in LDA but got a dataframe in PCA, even though the procedure",
-            "page": 48
-        },
-        {
             "level": "H1",
             "text": "Kernel PCA",
             "page": 48
         },
         {
             "level": "H2",
-            "text": "Should Kernel PCA be used to convert non-linearly separable data into linearly separable",
-            "page": 48
-        },
-        {
-            "level": "H3",
             "text": "When should we use PCA vs Kernel PCA?",
             "page": 48
         },
@@ -1493,17 +1308,7 @@
         },
         {
             "level": "H3",
-            "text": "Kernel SVM?",
-            "page": 48
-        },
-        {
-            "level": "H3",
             "text": "How do we decide which kernel is best for Kernel PCA?",
-            "page": 48
-        },
-        {
-            "level": "H3",
-            "text": "How can I get the Principal Components of Kernel PCA in R?",
             "page": 48
         },
         {
@@ -1533,27 +1338,7 @@
         },
         {
             "level": "H3",
-            "text": "What does this Standard Deviation tell us exactly?",
-            "page": 49
-        },
-        {
-            "level": "H3",
             "text": "How to calculate the F1 score, Recall or Precision from k-Fold Cross Validation?",
-            "page": 50
-        },
-        {
-            "level": "H3",
-            "text": "Why only Kernel SVM?",
-            "page": 50
-        },
-        {
-            "level": "H3",
-            "text": "The k-Fold Cross Validation example in R creates 10 di\ufb00erent models using the Training set.",
-            "page": 50
-        },
-        {
-            "level": "H3",
-            "text": "In R we created folds from the training set. Shouldn\u2019t we create them for the entire data set?",
             "page": 50
         },
         {
@@ -1594,11 +1379,6 @@
         {
             "level": "H3",
             "text": "will be the most optimal when working with the test set?",
-            "page": 51
-        },
-        {
-            "level": "H3",
-            "text": "Grid Search in R",
             "page": 51
         },
         {
@@ -1674,16 +1454,6 @@
         {
             "level": "H3",
             "text": "Can XGBoost be applied to both Classi\ufb01cation and Regression in Python?",
-            "page": 52
-        },
-        {
-            "level": "H3",
-            "text": "In the k-Fold Cross Validation code section, line 35, shouldn\u2019t it be \u2019training_fold\u2019 instead of",
-            "page": 52
-        },
-        {
-            "level": "H3",
-            "text": "\u2019training_set\u2019?",
             "page": 52
         },
         {

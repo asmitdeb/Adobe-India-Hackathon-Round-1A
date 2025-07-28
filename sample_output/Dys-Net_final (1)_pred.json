@@ -33,11 +33,6 @@
         },
         {
             "level": "H2",
-            "text": "Overview",
-            "page": 4
-        },
-        {
-            "level": "H3",
             "text": "Pre-processing and Feature Extraction",
             "page": 5
         },
@@ -47,37 +42,17 @@
             "page": 5
         },
         {
-            "level": "H3",
-            "text": "Bi-directional LSTM Implementation",
-            "page": 6
-        },
-        {
-            "level": "H3",
-            "text": "Feature Hierarchy in CNN Layers",
-            "page": 7
-        },
-        {
-            "level": "H3",
-            "text": "Dys-Net Architecture",
-            "page": 7
-        },
-        {
-            "level": "H3",
+            "level": "H1",
             "text": "Input Encoding:",
             "page": 7
         },
         {
-            "level": "H3",
+            "level": "H2",
             "text": "Hierarchical Feature Abstraction:",
             "page": 8
         },
         {
-            "level": "H1",
-            "text": "Temporal Modeling:",
-            "page": 8
-        },
-        {
-            "level": "H2",
+            "level": "H3",
             "text": "Classification Head:",
             "page": 8
         },

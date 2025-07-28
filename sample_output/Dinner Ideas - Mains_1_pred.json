@@ -82,11 +82,6 @@
             "page": 4
         },
         {
-            "level": "H2",
-            "text": "Serve over cooked pasta.",
-            "page": 4
-        },
-        {
             "level": "H1",
             "text": "Beef Tacos",
             "page": 4
@@ -232,8 +227,18 @@
             "page": 9
         },
         {
+            "level": "H2",
+            "text": "1/2 cup flour",
+            "page": 10
+        },
+        {
             "level": "H1",
             "text": "Instructions:",
+            "page": 10
+        },
+        {
+            "level": "H2",
+            "text": "Serve warm.",
             "page": 10
         },
         {
@@ -244,6 +249,11 @@
         {
             "level": "H1",
             "text": "Ingredients:",
+            "page": 10
+        },
+        {
+            "level": "H2",
+            "text": "1/2 cup flour",
             "page": 10
         },
         {
@@ -282,6 +292,11 @@
             "page": 11
         },
         {
+            "level": "H2",
+            "text": "Serve warm.",
+            "page": 12
+        },
+        {
             "level": "H1",
             "text": "Jambalaya",
             "page": 12
@@ -294,6 +309,11 @@
         {
             "level": "H1",
             "text": "Instructions:",
+            "page": 12
+        },
+        {
+            "level": "H2",
+            "text": "Serve warm.",
             "page": 12
         },
         {
@@ -320,6 +340,11 @@
             "level": "H1",
             "text": "Instructions:",
             "page": 13
+        },
+        {
+            "level": "H2",
+            "text": "1/4 cup milk",
+            "page": 14
         },
         {
             "level": "H1",
@@ -349,6 +374,11 @@
         {
             "level": "H1",
             "text": "Instructions:",
+            "page": 15
+        },
+        {
+            "level": "H2",
+            "text": "Serve warm.",
             "page": 15
         },
         {

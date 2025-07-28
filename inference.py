@@ -240,7 +240,7 @@ for pdf_filename in sorted(os.listdir(TEST_PDF_DIR)):
     output_data = {"title": title, "outline": outline}
     
     # Save the output JSON
-    output_filename = f"{os.path.splitext(pdf_filename)[0]}_pred.json"
+    output_filename = f"{os.path.splitext(pdf_filename)[0]}.json"
     output_path = os.path.join(OUTPUT_DIR, output_filename)
     with open(output_path, "w", encoding="utf-8") as f:
         json.dump(output_data, f, indent=4)

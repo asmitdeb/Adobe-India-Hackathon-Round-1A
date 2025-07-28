@@ -58,6 +58,11 @@
         },
         {
             "level": "H2",
+            "text": "We can interpolate source images x0, x\u2032",
+            "page": 8
+        },
+        {
+            "level": "H2",
             "text": "Related Work",
             "page": 8
         },

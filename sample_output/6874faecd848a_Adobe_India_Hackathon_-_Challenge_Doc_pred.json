@@ -8,11 +8,6 @@
         },
         {
             "level": "H2",
-            "text": "Rethink Reading. Rediscover Knowledge",
-            "page": 2
-        },
-        {
-            "level": "H3",
             "text": "The Journey Ahead",
             "page": 2
         },
@@ -48,6 +43,11 @@
         },
         {
             "level": "H3",
+            "text": "Pro Tips",
+            "page": 5
+        },
+        {
+            "level": "H3",
             "text": "What Not to Do",
             "page": 6
         },
@@ -79,6 +79,11 @@
         {
             "level": "H2",
             "text": "https://github.com/jhaaj08/Adobe-India-",
+            "page": 10
+        },
+        {
+            "level": "H2",
+            "text": "Hackathon25.git",
             "page": 10
         }
     ]
